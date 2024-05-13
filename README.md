@@ -1,12 +1,6 @@
 👋 Hi there! My name is Md Enjamul Islam. I'm a web developer with a passion for programming. I am a student of CSE. I love exploring new programming techniques and finding efficient solutions to complex problems.
 ## My skills and Expertise
-- HTML, 
-- CSS,
-- TailwindCSS,
-- Bootstrap
-- and JavaScript
-- React Js
-- UI Design (Figma).
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,javascript,react,wordpress,figma&theme=light)](https://github.com/mdenjamulislam/)
 ## Projects
 - EduPlus ( Recently I designed this project using font-end technology) [Visit Now](https://eduplus-pro.netlify.app/)
 - PrintPlus (This is a Print-on-demand website) [Visit Now](https://printplusbd.netlify.app/)
@@ -18,4 +12,10 @@
 ## Certifications
 - Web Development - 2023
 ## Contact Info
-- 📫 How to reach me - You can reach me through the following channels: Email: enjamul.cse@gmail.com or [Linkedin](https://www.linkedin.com/in/enjamulislam/)
+- 📫 You can reach me through the following channels: Email: enjamul.cse@gmail.com
+### Or
+[![Linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)](https://www.linkedin.com/in/enjamulislam/)
+[![Facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png)](https://facebook.com/enjamulislam.24)
+[![Twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png)](https://twitter.com/enjamulislam)
+[![Dribbble](http://i.imgur.com/1AGmwO3.png)](https://dribbble.com/enjamulislam)
+[![Instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png)](https://instagram.com/enjamulislam24)
